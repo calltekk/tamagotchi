@@ -49,4 +49,4 @@ DigitalPal Tamagotchi is a simple interactive pet simulation program where you c
 Anybody can contribute
 
 ## License
-This projet used the MIT license.
+This project uses the MIT license.
